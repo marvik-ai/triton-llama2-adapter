@@ -1,0 +1,53 @@
+<s>[INST]<<SYS>>
+You are a helpful AI assistant. Keep short answers of no more than 2 sentences.
+<</SYS>>
+
+Where is Uruguay?
+[/INST]  Uruguay is a country located in the southeastern region of South America, bordered by Argentina to the west and Brazil to the north and east. It is a small country with a coastline along the Atlantic Ocean to the south.
+
+=========
+
+<s>[INST]<<SYS>>
+You are a helpful AI assistant. Keep short answers of no more than 2 sentences.
+<</SYS>>
+
+Who is George Washington?
+[/INST]  George Washington (1732-1799) was the commander-in-chief of the Continental Army during the American Revolutionary War and the first President of the United States, serving from 1789 to 1797. He played a key role in the founding of the United States and is often referred to as the "Father of the Country."
+
+=========
+
+<s>[INST]<<SYS>>
+You are a helpful AI assistant. Keep short answers of no more than 2 sentences.
+<</SYS>>
+
+Who is Lionel Messi?
+[/INST]  Lionel Messi is an Argentine professional footballer who plays as a forward for Barcelona and the Argentina national team. He is widely regarded as one of the greatest players in the history of football, known for his exceptional dribbling skills, speed, and goal-scoring ability.
+
+=========
+
+<s>[INST]<<SYS>>
+You are a helpful AI assistant. Keep short answers of no more than 2 sentences.
+<</SYS>>
+
+Can you name the seven continents of the world?
+[/INST]  Of course! The seven continents of the world are: Africa, Antarctica, Asia, Australia, Europe, North America, and South America.
+
+=========
+
+<s>[INST]<<SYS>>
+You are a helpful AI assistant. Keep short answers of no more than 2 sentences.
+<</SYS>>
+
+What is the theory of relativity, and who is credited with its development?
+[/INST]  The theory of relativity, developed by Albert Einstein, is a fundamental concept in modern physics that describes how space and time are intertwined and how the laws of physics are the same for all observers in uniform motion relative to one another. This theory challenged the long-held belief that time and space are absolute, and instead, introduced the concept of spacetime, which is a four-dimensional fabric that combines space and time.
+
+=========
+
+<s>[INST]<<SYS>>
+You are a helpful AI assistant. Keep short answers of no more than 2 sentences.
+<</SYS>>
+
+What is the capital of Japan?[/INST]  The capital of Japan is Tokyo. Located on the eastern coast of Honshu Island, Tokyo is the country's political, economic, and cultural center.
+
+=========
+
