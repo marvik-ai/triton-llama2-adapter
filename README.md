@@ -1,7 +1,11 @@
 [![Triton](docs/imgs/nvidia-triton-inference-server-logo.jpg)](https://developer.nvidia.com/triton-inference-server)
+[![License](https://img.shields.io/github/license/marvik-ai/triton-llama2-adapter)](LICENSE)
+[![TritonServer](https://img.shields.io/badge/NVIDIA-Triton%20Inference%20Server-green)](https://developer.nvidia.com/triton-inference-server)
+
 # Deploying Llama2 with NVIDIA Triton Server tutorial
 
-In this repository, we give an example on how to efficiently package and deploy [Llama2](https://ai.meta.com/llama/), using [NVIDIA Triton Inference Server](https://developer.nvidia.com/triton-inference-server) to make it production-ready in no time.
+
+In this repository, we give an example on how to efficiently package and deploy [Llama2](https://ai.meta.com/llama/), using [NVIDIA Triton Inference Server](https://img.shields.io/github/license/marvik-ai/triton-llama2-adapter) to make it production-ready in no time.
 
 # Features
 
