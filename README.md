@@ -28,7 +28,7 @@ We cover three different deployment approaches:
 
 
 
-- Implementing dynamic batching added an additional <b>x5 increase</b> in model’s throughout.
+- Implementing dynamic batching added an additional <b>x5 increase</b> in model’s throughput.
 
     || <center>Batch size = 1</center> | <center>Batch size = 2</center>| 
     --- | --- | --- |
