@@ -36,7 +36,7 @@ We cover three different deployment approaches:
 
     || <center>Batch size = 1</center> | <center>Batch size = 2</center>| 
     --- | --- | --- |
-    Exec time | <center>9.79s</center> | <center>17.07s/center> |
+    Exec time | <center>9.79s</center> | <center>17.07s</center> |
     Throughput | <center>10.6 token/s</center> | <center>66.5 token/s</center> |
 
 
